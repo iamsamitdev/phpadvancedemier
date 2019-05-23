@@ -1,0 +1,7 @@
+{
+    "require": {
+        "frameworks/jquery": "^2.1",
+        "twbs/bootstrap": "^4.3",
+        "mpdf/mpdf": "^7.1"
+    }
+}

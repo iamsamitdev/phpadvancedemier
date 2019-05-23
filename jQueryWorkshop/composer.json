@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ivaynberg/select2": "^4.0",
+        "frameworks/jquery": "^2.1",
+        "twbs/bootstrap": "^4.3"
+    }
+}
